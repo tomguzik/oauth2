@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
   gem.description = %q{A Ruby wrapper for the OAuth 2.0 protocol built with a similar style to the original OAuth gem.}
   gem.email = ['michael@intridea.com', 'sferik@gmail.com']
   gem.files = Dir.glob("{lib,spec}/**/*")
-  gem.homepage = 'http://github.com/tomguzik/oauth2'
+  gem.homepage = 'http://github.com/intridea/oauth2'
   gem.name = 'oauth2'
   gem.require_paths = ['lib']
   gem.required_rubygems_version = Gem::Requirement.new('>= 1.3.6')
